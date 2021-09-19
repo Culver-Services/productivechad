@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @productivechad
-- 👀 I’m interested in ... Creating my portfolio into a masterpeice.
+- 👀 I’m interested in ... Creating my portfolio into a masterpiece.
 - 🌱 I’m currently learning ... Full-Stack Deveopment
 - 💞️ I’m looking to collaborate on ... Demonstrating logic and focusing on material benifiting all.
 - 📫 How to reach me ... Any of social platforms provided in profiles are live.
