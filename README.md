@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @productivechad
+- 👋 Hi, My name is Chadwick Culver or Chad for short. @productivechad
 - 👀 I’m interested in ... Creating my portfolio into a masterpiece.
 - 🌱 I’m currently learning ... Full-Stack Deveopment
 - 💞️ I’m looking to collaborate on ... Demonstrating logic and focusing on material benifiting all.
