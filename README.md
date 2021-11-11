@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Chadwick Culver or Chad for short.
+- 👋 Hi, My name is Chadwick Culver and i am a techy. 
 - 👀 I’m interested in ... Creating my portfolio into a masterpiece.
 - 🌱 I’m currently learning ... To sharpen my skills as a graduate in 2021
 - 💞️ I’m looking to collaborate on ... Demonstrating logic and focusing on material benifiting all.
